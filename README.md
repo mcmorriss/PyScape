@@ -1,5 +1,5 @@
 # PyScape
-A RPG game made with pygame where a user is able to control and move around a character with arrow keys or WASD keys on a small map. Future features will be added.
+A RPG game made with pygame where a user is able to control and move around a character with arrow keys or WASD keys on a small map that contains barriers and two moving non-playable characters. Future features including combat and leveling system soon will be added.
 
 Here is a demo of the gameplay:
 
